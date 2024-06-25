@@ -6,3 +6,10 @@
 * Docs: https://minitorch.github.io/
 
 * Overview: https://minitorch.github.io/module0.html
+
+<img src="newplot.png" alt="Linear Dataset Classification" width="50%">
+
+# Hyperparameters used
+Size of hidden layer = 8
+learning rate = 0.05
+Number of epochs = 500
